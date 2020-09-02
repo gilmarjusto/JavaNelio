@@ -69,7 +69,7 @@ public class Matriz {
 		if (linha == mat.length) {
 			retorno = " ";
 		}
-		linha += 1; teste
+		linha += 1; teste1
 		retorno = "DOWN: " + mat[linha][coluna];
 		
 	    return retorno;
